@@ -1,0 +1,30 @@
+
+h1 {
+    font-style:italic;
+    background-color:blue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h2,h4,h3,h5 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+body{
+    background-color:white;
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 15px;
+    margin-left: 10 px;
+    font-style: italic;
+}
+div {
+    padding-top: 2px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
